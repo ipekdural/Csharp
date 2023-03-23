@@ -1,0 +1,17 @@
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\karar_yapilari\exercise2\exercise2\bin\Debug\net6.0-windows\exercise2.exe
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\karar_yapilari\exercise2\exercise2\bin\Debug\net6.0-windows\exercise2.deps.json
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\karar_yapilari\exercise2\exercise2\bin\Debug\net6.0-windows\exercise2.runtimeconfig.json
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\karar_yapilari\exercise2\exercise2\bin\Debug\net6.0-windows\exercise2.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\karar_yapilari\exercise2\exercise2\bin\Debug\net6.0-windows\exercise2.pdb
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\karar_yapilari\exercise2\exercise2\obj\Debug\net6.0-windows\exercise2.csproj.AssemblyReference.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\karar_yapilari\exercise2\exercise2\obj\Debug\net6.0-windows\exercise2.Form1.resources
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\karar_yapilari\exercise2\exercise2\obj\Debug\net6.0-windows\exercise2.csproj.GenerateResource.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\karar_yapilari\exercise2\exercise2\obj\Debug\net6.0-windows\exercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\karar_yapilari\exercise2\exercise2\obj\Debug\net6.0-windows\exercise2.AssemblyInfoInputs.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\karar_yapilari\exercise2\exercise2\obj\Debug\net6.0-windows\exercise2.AssemblyInfo.cs
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\karar_yapilari\exercise2\exercise2\obj\Debug\net6.0-windows\exercise2.csproj.CoreCompileInputs.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\karar_yapilari\exercise2\exercise2\obj\Debug\net6.0-windows\exercise2.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\karar_yapilari\exercise2\exercise2\obj\Debug\net6.0-windows\refint\exercise2.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\karar_yapilari\exercise2\exercise2\obj\Debug\net6.0-windows\exercise2.pdb
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\karar_yapilari\exercise2\exercise2\obj\Debug\net6.0-windows\exercise2.genruntimeconfig.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\karar_yapilari\exercise2\exercise2\obj\Debug\net6.0-windows\ref\exercise2.dll

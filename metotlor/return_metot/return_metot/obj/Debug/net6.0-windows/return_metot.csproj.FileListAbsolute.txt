@@ -1,0 +1,17 @@
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\metotlor\return_metot\return_metot\bin\Debug\net6.0-windows\return_metot.exe
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\metotlor\return_metot\return_metot\bin\Debug\net6.0-windows\return_metot.deps.json
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\metotlor\return_metot\return_metot\bin\Debug\net6.0-windows\return_metot.runtimeconfig.json
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\metotlor\return_metot\return_metot\bin\Debug\net6.0-windows\return_metot.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\metotlor\return_metot\return_metot\bin\Debug\net6.0-windows\return_metot.pdb
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\metotlor\return_metot\return_metot\obj\Debug\net6.0-windows\return_metot.csproj.AssemblyReference.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\metotlor\return_metot\return_metot\obj\Debug\net6.0-windows\return_metot.Form1.resources
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\metotlor\return_metot\return_metot\obj\Debug\net6.0-windows\return_metot.csproj.GenerateResource.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\metotlor\return_metot\return_metot\obj\Debug\net6.0-windows\return_metot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\metotlor\return_metot\return_metot\obj\Debug\net6.0-windows\return_metot.AssemblyInfoInputs.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\metotlor\return_metot\return_metot\obj\Debug\net6.0-windows\return_metot.AssemblyInfo.cs
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\metotlor\return_metot\return_metot\obj\Debug\net6.0-windows\return_metot.csproj.CoreCompileInputs.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\metotlor\return_metot\return_metot\obj\Debug\net6.0-windows\return_metot.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\metotlor\return_metot\return_metot\obj\Debug\net6.0-windows\refint\return_metot.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\metotlor\return_metot\return_metot\obj\Debug\net6.0-windows\return_metot.pdb
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\metotlor\return_metot\return_metot\obj\Debug\net6.0-windows\return_metot.genruntimeconfig.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\metotlor\return_metot\return_metot\obj\Debug\net6.0-windows\ref\return_metot.dll

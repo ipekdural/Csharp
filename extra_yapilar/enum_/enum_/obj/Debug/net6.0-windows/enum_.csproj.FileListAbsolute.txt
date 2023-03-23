@@ -1,0 +1,17 @@
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\enum_\enum_\obj\Debug\net6.0-windows\enum_.csproj.AssemblyReference.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\enum_\enum_\obj\Debug\net6.0-windows\enum_.Form1.resources
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\enum_\enum_\obj\Debug\net6.0-windows\enum_.csproj.GenerateResource.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\enum_\enum_\obj\Debug\net6.0-windows\enum_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\enum_\enum_\obj\Debug\net6.0-windows\enum_.AssemblyInfoInputs.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\enum_\enum_\obj\Debug\net6.0-windows\enum_.AssemblyInfo.cs
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\enum_\enum_\obj\Debug\net6.0-windows\enum_.csproj.CoreCompileInputs.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\enum_\enum_\bin\Debug\net6.0-windows\enum_.exe
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\enum_\enum_\bin\Debug\net6.0-windows\enum_.deps.json
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\enum_\enum_\bin\Debug\net6.0-windows\enum_.runtimeconfig.json
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\enum_\enum_\bin\Debug\net6.0-windows\enum_.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\enum_\enum_\bin\Debug\net6.0-windows\enum_.pdb
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\enum_\enum_\obj\Debug\net6.0-windows\enum_.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\enum_\enum_\obj\Debug\net6.0-windows\refint\enum_.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\enum_\enum_\obj\Debug\net6.0-windows\enum_.pdb
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\enum_\enum_\obj\Debug\net6.0-windows\enum_.genruntimeconfig.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\enum_\enum_\obj\Debug\net6.0-windows\ref\enum_.dll

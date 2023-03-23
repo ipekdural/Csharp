@@ -1,0 +1,11 @@
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_tools\chart_\chart_\bin\Debug\chart_.exe.config
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_tools\chart_\chart_\bin\Debug\chart_.exe
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_tools\chart_\chart_\bin\Debug\chart_.pdb
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_tools\chart_\chart_\obj\Debug\chart_.csproj.AssemblyReference.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_tools\chart_\chart_\obj\Debug\chart_.csproj.SuggestedBindingRedirects.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_tools\chart_\chart_\obj\Debug\chart_.Form1.resources
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_tools\chart_\chart_\obj\Debug\chart_.Properties.Resources.resources
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_tools\chart_\chart_\obj\Debug\chart_.csproj.GenerateResource.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_tools\chart_\chart_\obj\Debug\chart_.csproj.CoreCompileInputs.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_tools\chart_\chart_\obj\Debug\chart_.exe
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_tools\chart_\chart_\obj\Debug\chart_.pdb

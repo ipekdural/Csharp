@@ -1,0 +1,17 @@
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\siniflar\Kalitim\Kalitim\obj\Debug\net6.0-windows\Kalitim.csproj.AssemblyReference.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\siniflar\Kalitim\Kalitim\obj\Debug\net6.0-windows\Kalitim.Form1.resources
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\siniflar\Kalitim\Kalitim\obj\Debug\net6.0-windows\Kalitim.csproj.GenerateResource.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\siniflar\Kalitim\Kalitim\obj\Debug\net6.0-windows\Kalitim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\siniflar\Kalitim\Kalitim\obj\Debug\net6.0-windows\Kalitim.AssemblyInfoInputs.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\siniflar\Kalitim\Kalitim\obj\Debug\net6.0-windows\Kalitim.AssemblyInfo.cs
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\siniflar\Kalitim\Kalitim\obj\Debug\net6.0-windows\Kalitim.csproj.CoreCompileInputs.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\siniflar\Kalitim\Kalitim\bin\Debug\net6.0-windows\Kalitim.exe
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\siniflar\Kalitim\Kalitim\bin\Debug\net6.0-windows\Kalitim.deps.json
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\siniflar\Kalitim\Kalitim\bin\Debug\net6.0-windows\Kalitim.runtimeconfig.json
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\siniflar\Kalitim\Kalitim\bin\Debug\net6.0-windows\Kalitim.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\siniflar\Kalitim\Kalitim\bin\Debug\net6.0-windows\Kalitim.pdb
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\siniflar\Kalitim\Kalitim\obj\Debug\net6.0-windows\Kalitim.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\siniflar\Kalitim\Kalitim\obj\Debug\net6.0-windows\refint\Kalitim.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\siniflar\Kalitim\Kalitim\obj\Debug\net6.0-windows\Kalitim.pdb
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\siniflar\Kalitim\Kalitim\obj\Debug\net6.0-windows\Kalitim.genruntimeconfig.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\siniflar\Kalitim\Kalitim\obj\Debug\net6.0-windows\ref\Kalitim.dll

@@ -1,0 +1,17 @@
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\karar_yapilari\exercise\exercise\bin\Debug\net6.0-windows\exercise.exe
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\karar_yapilari\exercise\exercise\bin\Debug\net6.0-windows\exercise.deps.json
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\karar_yapilari\exercise\exercise\bin\Debug\net6.0-windows\exercise.runtimeconfig.json
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\karar_yapilari\exercise\exercise\bin\Debug\net6.0-windows\exercise.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\karar_yapilari\exercise\exercise\bin\Debug\net6.0-windows\exercise.pdb
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\karar_yapilari\exercise\exercise\obj\Debug\net6.0-windows\exercise.csproj.AssemblyReference.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\karar_yapilari\exercise\exercise\obj\Debug\net6.0-windows\exercise.Form1.resources
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\karar_yapilari\exercise\exercise\obj\Debug\net6.0-windows\exercise.csproj.GenerateResource.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\karar_yapilari\exercise\exercise\obj\Debug\net6.0-windows\exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\karar_yapilari\exercise\exercise\obj\Debug\net6.0-windows\exercise.AssemblyInfoInputs.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\karar_yapilari\exercise\exercise\obj\Debug\net6.0-windows\exercise.AssemblyInfo.cs
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\karar_yapilari\exercise\exercise\obj\Debug\net6.0-windows\exercise.csproj.CoreCompileInputs.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\karar_yapilari\exercise\exercise\obj\Debug\net6.0-windows\exercise.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\karar_yapilari\exercise\exercise\obj\Debug\net6.0-windows\refint\exercise.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\karar_yapilari\exercise\exercise\obj\Debug\net6.0-windows\exercise.pdb
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\karar_yapilari\exercise\exercise\obj\Debug\net6.0-windows\exercise.genruntimeconfig.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\karar_yapilari\exercise\exercise\obj\Debug\net6.0-windows\ref\exercise.dll

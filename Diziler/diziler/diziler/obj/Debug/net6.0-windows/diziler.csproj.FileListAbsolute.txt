@@ -1,0 +1,17 @@
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Diziler\diziler\diziler\bin\Debug\net6.0-windows\diziler.exe
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Diziler\diziler\diziler\bin\Debug\net6.0-windows\diziler.deps.json
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Diziler\diziler\diziler\bin\Debug\net6.0-windows\diziler.runtimeconfig.json
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Diziler\diziler\diziler\bin\Debug\net6.0-windows\diziler.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Diziler\diziler\diziler\bin\Debug\net6.0-windows\diziler.pdb
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Diziler\diziler\diziler\obj\Debug\net6.0-windows\diziler.csproj.AssemblyReference.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Diziler\diziler\diziler\obj\Debug\net6.0-windows\diziler.Form1.resources
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Diziler\diziler\diziler\obj\Debug\net6.0-windows\diziler.csproj.GenerateResource.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Diziler\diziler\diziler\obj\Debug\net6.0-windows\diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Diziler\diziler\diziler\obj\Debug\net6.0-windows\diziler.AssemblyInfoInputs.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Diziler\diziler\diziler\obj\Debug\net6.0-windows\diziler.AssemblyInfo.cs
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Diziler\diziler\diziler\obj\Debug\net6.0-windows\diziler.csproj.CoreCompileInputs.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Diziler\diziler\diziler\obj\Debug\net6.0-windows\diziler.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Diziler\diziler\diziler\obj\Debug\net6.0-windows\refint\diziler.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Diziler\diziler\diziler\obj\Debug\net6.0-windows\diziler.pdb
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Diziler\diziler\diziler\obj\Debug\net6.0-windows\diziler.genruntimeconfig.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Diziler\diziler\diziler\obj\Debug\net6.0-windows\ref\diziler.dll

@@ -1,0 +1,8 @@
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\siniflar\void_class2\void_class2\bin\Debug\void_class2.exe.config
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\siniflar\void_class2\void_class2\bin\Debug\void_class2.exe
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\siniflar\void_class2\void_class2\bin\Debug\void_class2.pdb
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\siniflar\void_class2\void_class2\obj\Debug\void_class2.csproj.AssemblyReference.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\siniflar\void_class2\void_class2\obj\Debug\void_class2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\siniflar\void_class2\void_class2\obj\Debug\void_class2.csproj.CoreCompileInputs.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\siniflar\void_class2\void_class2\obj\Debug\void_class2.exe
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\siniflar\void_class2\void_class2\obj\Debug\void_class2.pdb

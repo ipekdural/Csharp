@@ -1,0 +1,11 @@
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_tools\context_menu\context_menu\bin\Debug\context_menu.exe.config
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_tools\context_menu\context_menu\bin\Debug\context_menu.exe
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_tools\context_menu\context_menu\bin\Debug\context_menu.pdb
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_tools\context_menu\context_menu\obj\Debug\context_menu.csproj.AssemblyReference.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_tools\context_menu\context_menu\obj\Debug\context_menu.csproj.SuggestedBindingRedirects.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_tools\context_menu\context_menu\obj\Debug\context_menu.Form1.resources
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_tools\context_menu\context_menu\obj\Debug\context_menu.Properties.Resources.resources
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_tools\context_menu\context_menu\obj\Debug\context_menu.csproj.GenerateResource.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_tools\context_menu\context_menu\obj\Debug\context_menu.csproj.CoreCompileInputs.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_tools\context_menu\context_menu\obj\Debug\context_menu.exe
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_tools\context_menu\context_menu\obj\Debug\context_menu.pdb

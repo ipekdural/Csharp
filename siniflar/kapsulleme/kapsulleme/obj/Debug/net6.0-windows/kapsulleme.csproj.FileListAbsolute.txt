@@ -1,0 +1,17 @@
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\siniflar\kapsulleme\kapsulleme\bin\Debug\net6.0-windows\kapsulleme.exe
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\siniflar\kapsulleme\kapsulleme\bin\Debug\net6.0-windows\kapsulleme.deps.json
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\siniflar\kapsulleme\kapsulleme\bin\Debug\net6.0-windows\kapsulleme.runtimeconfig.json
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\siniflar\kapsulleme\kapsulleme\bin\Debug\net6.0-windows\kapsulleme.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\siniflar\kapsulleme\kapsulleme\bin\Debug\net6.0-windows\kapsulleme.pdb
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\siniflar\kapsulleme\kapsulleme\obj\Debug\net6.0-windows\kapsulleme.csproj.AssemblyReference.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\siniflar\kapsulleme\kapsulleme\obj\Debug\net6.0-windows\kapsulleme.Form1.resources
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\siniflar\kapsulleme\kapsulleme\obj\Debug\net6.0-windows\kapsulleme.csproj.GenerateResource.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\siniflar\kapsulleme\kapsulleme\obj\Debug\net6.0-windows\kapsulleme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\siniflar\kapsulleme\kapsulleme\obj\Debug\net6.0-windows\kapsulleme.AssemblyInfoInputs.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\siniflar\kapsulleme\kapsulleme\obj\Debug\net6.0-windows\kapsulleme.AssemblyInfo.cs
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\siniflar\kapsulleme\kapsulleme\obj\Debug\net6.0-windows\kapsulleme.csproj.CoreCompileInputs.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\siniflar\kapsulleme\kapsulleme\obj\Debug\net6.0-windows\kapsulleme.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\siniflar\kapsulleme\kapsulleme\obj\Debug\net6.0-windows\refint\kapsulleme.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\siniflar\kapsulleme\kapsulleme\obj\Debug\net6.0-windows\kapsulleme.pdb
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\siniflar\kapsulleme\kapsulleme\obj\Debug\net6.0-windows\kapsulleme.genruntimeconfig.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\siniflar\kapsulleme\kapsulleme\obj\Debug\net6.0-windows\ref\kapsulleme.dll

@@ -1,0 +1,17 @@
+C:\Users\ipekd\Desktop\C#UDEMY\Degiskenler\integer\integer\bin\Debug\net6.0-windows\integer.exe
+C:\Users\ipekd\Desktop\C#UDEMY\Degiskenler\integer\integer\bin\Debug\net6.0-windows\integer.deps.json
+C:\Users\ipekd\Desktop\C#UDEMY\Degiskenler\integer\integer\bin\Debug\net6.0-windows\integer.runtimeconfig.json
+C:\Users\ipekd\Desktop\C#UDEMY\Degiskenler\integer\integer\bin\Debug\net6.0-windows\integer.dll
+C:\Users\ipekd\Desktop\C#UDEMY\Degiskenler\integer\integer\bin\Debug\net6.0-windows\integer.pdb
+C:\Users\ipekd\Desktop\C#UDEMY\Degiskenler\integer\integer\obj\Debug\net6.0-windows\integer.csproj.AssemblyReference.cache
+C:\Users\ipekd\Desktop\C#UDEMY\Degiskenler\integer\integer\obj\Debug\net6.0-windows\integer.Form1.resources
+C:\Users\ipekd\Desktop\C#UDEMY\Degiskenler\integer\integer\obj\Debug\net6.0-windows\integer.csproj.GenerateResource.cache
+C:\Users\ipekd\Desktop\C#UDEMY\Degiskenler\integer\integer\obj\Debug\net6.0-windows\integer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ipekd\Desktop\C#UDEMY\Degiskenler\integer\integer\obj\Debug\net6.0-windows\integer.AssemblyInfoInputs.cache
+C:\Users\ipekd\Desktop\C#UDEMY\Degiskenler\integer\integer\obj\Debug\net6.0-windows\integer.AssemblyInfo.cs
+C:\Users\ipekd\Desktop\C#UDEMY\Degiskenler\integer\integer\obj\Debug\net6.0-windows\integer.csproj.CoreCompileInputs.cache
+C:\Users\ipekd\Desktop\C#UDEMY\Degiskenler\integer\integer\obj\Debug\net6.0-windows\integer.dll
+C:\Users\ipekd\Desktop\C#UDEMY\Degiskenler\integer\integer\obj\Debug\net6.0-windows\refint\integer.dll
+C:\Users\ipekd\Desktop\C#UDEMY\Degiskenler\integer\integer\obj\Debug\net6.0-windows\integer.pdb
+C:\Users\ipekd\Desktop\C#UDEMY\Degiskenler\integer\integer\obj\Debug\net6.0-windows\integer.genruntimeconfig.cache
+C:\Users\ipekd\Desktop\C#UDEMY\Degiskenler\integer\integer\obj\Debug\net6.0-windows\ref\integer.dll

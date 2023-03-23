@@ -1,0 +1,17 @@
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\karar_yapilari\if_else\if_else\bin\Debug\net6.0-windows\if_else.exe
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\karar_yapilari\if_else\if_else\bin\Debug\net6.0-windows\if_else.deps.json
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\karar_yapilari\if_else\if_else\bin\Debug\net6.0-windows\if_else.runtimeconfig.json
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\karar_yapilari\if_else\if_else\bin\Debug\net6.0-windows\if_else.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\karar_yapilari\if_else\if_else\bin\Debug\net6.0-windows\if_else.pdb
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\karar_yapilari\if_else\if_else\obj\Debug\net6.0-windows\if_else.csproj.AssemblyReference.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\karar_yapilari\if_else\if_else\obj\Debug\net6.0-windows\if_else.Form1.resources
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\karar_yapilari\if_else\if_else\obj\Debug\net6.0-windows\if_else.csproj.GenerateResource.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\karar_yapilari\if_else\if_else\obj\Debug\net6.0-windows\if_else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\karar_yapilari\if_else\if_else\obj\Debug\net6.0-windows\if_else.AssemblyInfoInputs.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\karar_yapilari\if_else\if_else\obj\Debug\net6.0-windows\if_else.AssemblyInfo.cs
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\karar_yapilari\if_else\if_else\obj\Debug\net6.0-windows\if_else.csproj.CoreCompileInputs.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\karar_yapilari\if_else\if_else\obj\Debug\net6.0-windows\if_else.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\karar_yapilari\if_else\if_else\obj\Debug\net6.0-windows\refint\if_else.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\karar_yapilari\if_else\if_else\obj\Debug\net6.0-windows\if_else.pdb
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\karar_yapilari\if_else\if_else\obj\Debug\net6.0-windows\if_else.genruntimeconfig.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\karar_yapilari\if_else\if_else\obj\Debug\net6.0-windows\ref\if_else.dll

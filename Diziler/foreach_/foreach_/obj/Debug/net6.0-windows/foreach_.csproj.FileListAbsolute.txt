@@ -1,0 +1,17 @@
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Diziler\foreach_\foreach_\bin\Debug\net6.0-windows\foreach_.exe
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Diziler\foreach_\foreach_\bin\Debug\net6.0-windows\foreach_.deps.json
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Diziler\foreach_\foreach_\bin\Debug\net6.0-windows\foreach_.runtimeconfig.json
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Diziler\foreach_\foreach_\bin\Debug\net6.0-windows\foreach_.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Diziler\foreach_\foreach_\bin\Debug\net6.0-windows\foreach_.pdb
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Diziler\foreach_\foreach_\obj\Debug\net6.0-windows\foreach_.csproj.AssemblyReference.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Diziler\foreach_\foreach_\obj\Debug\net6.0-windows\foreach_.Form1.resources
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Diziler\foreach_\foreach_\obj\Debug\net6.0-windows\foreach_.csproj.GenerateResource.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Diziler\foreach_\foreach_\obj\Debug\net6.0-windows\foreach_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Diziler\foreach_\foreach_\obj\Debug\net6.0-windows\foreach_.AssemblyInfoInputs.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Diziler\foreach_\foreach_\obj\Debug\net6.0-windows\foreach_.AssemblyInfo.cs
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Diziler\foreach_\foreach_\obj\Debug\net6.0-windows\foreach_.csproj.CoreCompileInputs.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Diziler\foreach_\foreach_\obj\Debug\net6.0-windows\foreach_.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Diziler\foreach_\foreach_\obj\Debug\net6.0-windows\refint\foreach_.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Diziler\foreach_\foreach_\obj\Debug\net6.0-windows\foreach_.pdb
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Diziler\foreach_\foreach_\obj\Debug\net6.0-windows\foreach_.genruntimeconfig.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Diziler\foreach_\foreach_\obj\Debug\net6.0-windows\ref\foreach_.dll

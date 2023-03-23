@@ -1,0 +1,17 @@
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\dijital_saat\dijital_saat\bin\Debug\net6.0-windows\dijital_saat.exe
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\dijital_saat\dijital_saat\bin\Debug\net6.0-windows\dijital_saat.deps.json
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\dijital_saat\dijital_saat\bin\Debug\net6.0-windows\dijital_saat.runtimeconfig.json
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\dijital_saat\dijital_saat\bin\Debug\net6.0-windows\dijital_saat.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\dijital_saat\dijital_saat\bin\Debug\net6.0-windows\dijital_saat.pdb
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\dijital_saat\dijital_saat\obj\Debug\net6.0-windows\dijital_saat.csproj.AssemblyReference.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\dijital_saat\dijital_saat\obj\Debug\net6.0-windows\dijital_saat.Form1.resources
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\dijital_saat\dijital_saat\obj\Debug\net6.0-windows\dijital_saat.csproj.GenerateResource.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\dijital_saat\dijital_saat\obj\Debug\net6.0-windows\dijital_saat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\dijital_saat\dijital_saat\obj\Debug\net6.0-windows\dijital_saat.AssemblyInfoInputs.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\dijital_saat\dijital_saat\obj\Debug\net6.0-windows\dijital_saat.AssemblyInfo.cs
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\dijital_saat\dijital_saat\obj\Debug\net6.0-windows\dijital_saat.csproj.CoreCompileInputs.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\dijital_saat\dijital_saat\obj\Debug\net6.0-windows\dijital_saat.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\dijital_saat\dijital_saat\obj\Debug\net6.0-windows\refint\dijital_saat.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\dijital_saat\dijital_saat\obj\Debug\net6.0-windows\dijital_saat.pdb
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\dijital_saat\dijital_saat\obj\Debug\net6.0-windows\dijital_saat.genruntimeconfig.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\dijital_saat\dijital_saat\obj\Debug\net6.0-windows\ref\dijital_saat.dll

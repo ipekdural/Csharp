@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "dinamik_araclar/1.0.0": {
+        "runtime": {
+          "dinamik_araclar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dinamik_araclar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

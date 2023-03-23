@@ -1,0 +1,11 @@
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_tools\web_browser\web_browser\bin\Debug\web_browser.exe.config
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_tools\web_browser\web_browser\bin\Debug\web_browser.exe
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_tools\web_browser\web_browser\bin\Debug\web_browser.pdb
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_tools\web_browser\web_browser\obj\Debug\web_browser.csproj.AssemblyReference.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_tools\web_browser\web_browser\obj\Debug\web_browser.csproj.SuggestedBindingRedirects.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_tools\web_browser\web_browser\obj\Debug\web_browser.Form1.resources
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_tools\web_browser\web_browser\obj\Debug\web_browser.Properties.Resources.resources
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_tools\web_browser\web_browser\obj\Debug\web_browser.csproj.GenerateResource.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_tools\web_browser\web_browser\obj\Debug\web_browser.csproj.CoreCompileInputs.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_tools\web_browser\web_browser\obj\Debug\web_browser.exe
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_tools\web_browser\web_browser\obj\Debug\web_browser.pdb

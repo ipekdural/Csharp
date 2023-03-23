@@ -1,0 +1,17 @@
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Diziler\textboxtan_eleman_ekleme\textboxtan_eleman_ekleme\bin\Debug\net6.0-windows\textboxtan_eleman_ekleme.exe
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Diziler\textboxtan_eleman_ekleme\textboxtan_eleman_ekleme\bin\Debug\net6.0-windows\textboxtan_eleman_ekleme.deps.json
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Diziler\textboxtan_eleman_ekleme\textboxtan_eleman_ekleme\bin\Debug\net6.0-windows\textboxtan_eleman_ekleme.runtimeconfig.json
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Diziler\textboxtan_eleman_ekleme\textboxtan_eleman_ekleme\bin\Debug\net6.0-windows\textboxtan_eleman_ekleme.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Diziler\textboxtan_eleman_ekleme\textboxtan_eleman_ekleme\bin\Debug\net6.0-windows\textboxtan_eleman_ekleme.pdb
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Diziler\textboxtan_eleman_ekleme\textboxtan_eleman_ekleme\obj\Debug\net6.0-windows\textboxtan_eleman_ekleme.csproj.AssemblyReference.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Diziler\textboxtan_eleman_ekleme\textboxtan_eleman_ekleme\obj\Debug\net6.0-windows\textboxtan_eleman_ekleme.Form1.resources
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Diziler\textboxtan_eleman_ekleme\textboxtan_eleman_ekleme\obj\Debug\net6.0-windows\textboxtan_eleman_ekleme.csproj.GenerateResource.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Diziler\textboxtan_eleman_ekleme\textboxtan_eleman_ekleme\obj\Debug\net6.0-windows\textboxtan_eleman_ekleme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Diziler\textboxtan_eleman_ekleme\textboxtan_eleman_ekleme\obj\Debug\net6.0-windows\textboxtan_eleman_ekleme.AssemblyInfoInputs.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Diziler\textboxtan_eleman_ekleme\textboxtan_eleman_ekleme\obj\Debug\net6.0-windows\textboxtan_eleman_ekleme.AssemblyInfo.cs
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Diziler\textboxtan_eleman_ekleme\textboxtan_eleman_ekleme\obj\Debug\net6.0-windows\textboxtan_eleman_ekleme.csproj.CoreCompileInputs.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Diziler\textboxtan_eleman_ekleme\textboxtan_eleman_ekleme\obj\Debug\net6.0-windows\textboxtan_eleman_ekleme.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Diziler\textboxtan_eleman_ekleme\textboxtan_eleman_ekleme\obj\Debug\net6.0-windows\refint\textboxtan_eleman_ekleme.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Diziler\textboxtan_eleman_ekleme\textboxtan_eleman_ekleme\obj\Debug\net6.0-windows\textboxtan_eleman_ekleme.pdb
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Diziler\textboxtan_eleman_ekleme\textboxtan_eleman_ekleme\obj\Debug\net6.0-windows\textboxtan_eleman_ekleme.genruntimeconfig.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Diziler\textboxtan_eleman_ekleme\textboxtan_eleman_ekleme\obj\Debug\net6.0-windows\ref\textboxtan_eleman_ekleme.dll

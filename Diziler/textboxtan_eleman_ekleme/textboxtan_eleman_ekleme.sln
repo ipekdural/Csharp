@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "textboxtan_eleman_ekleme", "textboxtan_eleman_ekleme\textboxtan_eleman_ekleme.csproj", "{CA92F30E-ED18-4A7A-9DC1-27C19677EDBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA92F30E-ED18-4A7A-9DC1-27C19677EDBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA92F30E-ED18-4A7A-9DC1-27C19677EDBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA92F30E-ED18-4A7A-9DC1-27C19677EDBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA92F30E-ED18-4A7A-9DC1-27C19677EDBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB204DC7-7221-4741-BFD3-C4DE1AD86374}
+	EndGlobalSection
+EndGlobal

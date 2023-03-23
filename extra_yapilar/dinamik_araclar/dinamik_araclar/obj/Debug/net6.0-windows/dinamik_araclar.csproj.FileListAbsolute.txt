@@ -1,0 +1,17 @@
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\dinamik_araclar\dinamik_araclar\bin\Debug\net6.0-windows\dinamik_araclar.exe
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\dinamik_araclar\dinamik_araclar\bin\Debug\net6.0-windows\dinamik_araclar.deps.json
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\dinamik_araclar\dinamik_araclar\bin\Debug\net6.0-windows\dinamik_araclar.runtimeconfig.json
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\dinamik_araclar\dinamik_araclar\bin\Debug\net6.0-windows\dinamik_araclar.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\dinamik_araclar\dinamik_araclar\bin\Debug\net6.0-windows\dinamik_araclar.pdb
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\dinamik_araclar\dinamik_araclar\obj\Debug\net6.0-windows\dinamik_araclar.csproj.AssemblyReference.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\dinamik_araclar\dinamik_araclar\obj\Debug\net6.0-windows\dinamik_araclar.Form1.resources
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\dinamik_araclar\dinamik_araclar\obj\Debug\net6.0-windows\dinamik_araclar.csproj.GenerateResource.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\dinamik_araclar\dinamik_araclar\obj\Debug\net6.0-windows\dinamik_araclar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\dinamik_araclar\dinamik_araclar\obj\Debug\net6.0-windows\dinamik_araclar.AssemblyInfoInputs.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\dinamik_araclar\dinamik_araclar\obj\Debug\net6.0-windows\dinamik_araclar.AssemblyInfo.cs
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\dinamik_araclar\dinamik_araclar\obj\Debug\net6.0-windows\dinamik_araclar.csproj.CoreCompileInputs.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\dinamik_araclar\dinamik_araclar\obj\Debug\net6.0-windows\dinamik_araclar.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\dinamik_araclar\dinamik_araclar\obj\Debug\net6.0-windows\refint\dinamik_araclar.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\dinamik_araclar\dinamik_araclar\obj\Debug\net6.0-windows\dinamik_araclar.pdb
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\dinamik_araclar\dinamik_araclar\obj\Debug\net6.0-windows\dinamik_araclar.genruntimeconfig.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\dinamik_araclar\dinamik_araclar\obj\Debug\net6.0-windows\ref\dinamik_araclar.dll

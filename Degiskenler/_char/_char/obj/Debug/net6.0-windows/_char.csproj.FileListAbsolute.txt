@@ -1,0 +1,17 @@
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Degiskenler\_char\_char\bin\Debug\net6.0-windows\_char.exe
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Degiskenler\_char\_char\bin\Debug\net6.0-windows\_char.deps.json
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Degiskenler\_char\_char\bin\Debug\net6.0-windows\_char.runtimeconfig.json
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Degiskenler\_char\_char\bin\Debug\net6.0-windows\_char.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Degiskenler\_char\_char\bin\Debug\net6.0-windows\_char.pdb
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Degiskenler\_char\_char\obj\Debug\net6.0-windows\_char.csproj.AssemblyReference.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Degiskenler\_char\_char\obj\Debug\net6.0-windows\_char.Form1.resources
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Degiskenler\_char\_char\obj\Debug\net6.0-windows\_char.csproj.GenerateResource.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Degiskenler\_char\_char\obj\Debug\net6.0-windows\_char.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Degiskenler\_char\_char\obj\Debug\net6.0-windows\_char.AssemblyInfoInputs.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Degiskenler\_char\_char\obj\Debug\net6.0-windows\_char.AssemblyInfo.cs
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Degiskenler\_char\_char\obj\Debug\net6.0-windows\_char.csproj.CoreCompileInputs.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Degiskenler\_char\_char\obj\Debug\net6.0-windows\_char.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Degiskenler\_char\_char\obj\Debug\net6.0-windows\refint\_char.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Degiskenler\_char\_char\obj\Debug\net6.0-windows\_char.pdb
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Degiskenler\_char\_char\obj\Debug\net6.0-windows\_char.genruntimeconfig.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\Degiskenler\_char\_char\obj\Debug\net6.0-windows\ref\_char.dll

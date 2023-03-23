@@ -1,0 +1,17 @@
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\sayisal_loto\sayisal_loto\bin\Debug\net6.0-windows\sayisal_loto.exe
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\sayisal_loto\sayisal_loto\bin\Debug\net6.0-windows\sayisal_loto.deps.json
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\sayisal_loto\sayisal_loto\bin\Debug\net6.0-windows\sayisal_loto.runtimeconfig.json
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\sayisal_loto\sayisal_loto\bin\Debug\net6.0-windows\sayisal_loto.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\sayisal_loto\sayisal_loto\bin\Debug\net6.0-windows\sayisal_loto.pdb
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\sayisal_loto\sayisal_loto\obj\Debug\net6.0-windows\sayisal_loto.csproj.AssemblyReference.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\sayisal_loto\sayisal_loto\obj\Debug\net6.0-windows\sayisal_loto.Form1.resources
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\sayisal_loto\sayisal_loto\obj\Debug\net6.0-windows\sayisal_loto.csproj.GenerateResource.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\sayisal_loto\sayisal_loto\obj\Debug\net6.0-windows\sayisal_loto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\sayisal_loto\sayisal_loto\obj\Debug\net6.0-windows\sayisal_loto.AssemblyInfoInputs.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\sayisal_loto\sayisal_loto\obj\Debug\net6.0-windows\sayisal_loto.AssemblyInfo.cs
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\sayisal_loto\sayisal_loto\obj\Debug\net6.0-windows\sayisal_loto.csproj.CoreCompileInputs.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\sayisal_loto\sayisal_loto\obj\Debug\net6.0-windows\sayisal_loto.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\sayisal_loto\sayisal_loto\obj\Debug\net6.0-windows\refint\sayisal_loto.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\sayisal_loto\sayisal_loto\obj\Debug\net6.0-windows\sayisal_loto.pdb
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\sayisal_loto\sayisal_loto\obj\Debug\net6.0-windows\sayisal_loto.genruntimeconfig.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\sayisal_loto\sayisal_loto\obj\Debug\net6.0-windows\ref\sayisal_loto.dll

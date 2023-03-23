@@ -1,0 +1,17 @@
+C:\Users\ipekd\Desktop\C#UDEMY\arac_kullanimi\arac_kullanimi\bin\Debug\net6.0-windows\arac_kullanimi.exe
+C:\Users\ipekd\Desktop\C#UDEMY\arac_kullanimi\arac_kullanimi\bin\Debug\net6.0-windows\arac_kullanimi.deps.json
+C:\Users\ipekd\Desktop\C#UDEMY\arac_kullanimi\arac_kullanimi\bin\Debug\net6.0-windows\arac_kullanimi.runtimeconfig.json
+C:\Users\ipekd\Desktop\C#UDEMY\arac_kullanimi\arac_kullanimi\bin\Debug\net6.0-windows\arac_kullanimi.dll
+C:\Users\ipekd\Desktop\C#UDEMY\arac_kullanimi\arac_kullanimi\bin\Debug\net6.0-windows\arac_kullanimi.pdb
+C:\Users\ipekd\Desktop\C#UDEMY\arac_kullanimi\arac_kullanimi\obj\Debug\net6.0-windows\arac_kullanimi.csproj.AssemblyReference.cache
+C:\Users\ipekd\Desktop\C#UDEMY\arac_kullanimi\arac_kullanimi\obj\Debug\net6.0-windows\arac_kullanimi.Form1.resources
+C:\Users\ipekd\Desktop\C#UDEMY\arac_kullanimi\arac_kullanimi\obj\Debug\net6.0-windows\arac_kullanimi.csproj.GenerateResource.cache
+C:\Users\ipekd\Desktop\C#UDEMY\arac_kullanimi\arac_kullanimi\obj\Debug\net6.0-windows\arac_kullanimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ipekd\Desktop\C#UDEMY\arac_kullanimi\arac_kullanimi\obj\Debug\net6.0-windows\arac_kullanimi.AssemblyInfoInputs.cache
+C:\Users\ipekd\Desktop\C#UDEMY\arac_kullanimi\arac_kullanimi\obj\Debug\net6.0-windows\arac_kullanimi.AssemblyInfo.cs
+C:\Users\ipekd\Desktop\C#UDEMY\arac_kullanimi\arac_kullanimi\obj\Debug\net6.0-windows\arac_kullanimi.csproj.CoreCompileInputs.cache
+C:\Users\ipekd\Desktop\C#UDEMY\arac_kullanimi\arac_kullanimi\obj\Debug\net6.0-windows\arac_kullanimi.dll
+C:\Users\ipekd\Desktop\C#UDEMY\arac_kullanimi\arac_kullanimi\obj\Debug\net6.0-windows\refint\arac_kullanimi.dll
+C:\Users\ipekd\Desktop\C#UDEMY\arac_kullanimi\arac_kullanimi\obj\Debug\net6.0-windows\arac_kullanimi.pdb
+C:\Users\ipekd\Desktop\C#UDEMY\arac_kullanimi\arac_kullanimi\obj\Debug\net6.0-windows\arac_kullanimi.genruntimeconfig.cache
+C:\Users\ipekd\Desktop\C#UDEMY\arac_kullanimi\arac_kullanimi\obj\Debug\net6.0-windows\ref\arac_kullanimi.dll

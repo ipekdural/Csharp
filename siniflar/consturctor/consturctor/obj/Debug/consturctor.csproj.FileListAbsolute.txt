@@ -1,0 +1,8 @@
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\siniflar\consturctor\consturctor\bin\Debug\consturctor.exe.config
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\siniflar\consturctor\consturctor\bin\Debug\consturctor.exe
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\siniflar\consturctor\consturctor\bin\Debug\consturctor.pdb
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\siniflar\consturctor\consturctor\obj\Debug\consturctor.csproj.AssemblyReference.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\siniflar\consturctor\consturctor\obj\Debug\consturctor.csproj.SuggestedBindingRedirects.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\siniflar\consturctor\consturctor\obj\Debug\consturctor.csproj.CoreCompileInputs.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\siniflar\consturctor\consturctor\obj\Debug\consturctor.exe
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\siniflar\consturctor\consturctor\obj\Debug\consturctor.pdb

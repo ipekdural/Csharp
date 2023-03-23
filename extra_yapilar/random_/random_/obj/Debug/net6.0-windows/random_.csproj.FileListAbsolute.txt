@@ -1,0 +1,17 @@
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\random_\random_\bin\Debug\net6.0-windows\random_.exe
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\random_\random_\bin\Debug\net6.0-windows\random_.deps.json
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\random_\random_\bin\Debug\net6.0-windows\random_.runtimeconfig.json
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\random_\random_\bin\Debug\net6.0-windows\random_.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\random_\random_\bin\Debug\net6.0-windows\random_.pdb
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\random_\random_\obj\Debug\net6.0-windows\random_.csproj.AssemblyReference.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\random_\random_\obj\Debug\net6.0-windows\random_.Form1.resources
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\random_\random_\obj\Debug\net6.0-windows\random_.csproj.GenerateResource.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\random_\random_\obj\Debug\net6.0-windows\random_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\random_\random_\obj\Debug\net6.0-windows\random_.AssemblyInfoInputs.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\random_\random_\obj\Debug\net6.0-windows\random_.AssemblyInfo.cs
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\random_\random_\obj\Debug\net6.0-windows\random_.csproj.CoreCompileInputs.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\random_\random_\obj\Debug\net6.0-windows\random_.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\random_\random_\obj\Debug\net6.0-windows\refint\random_.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\random_\random_\obj\Debug\net6.0-windows\random_.pdb
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\random_\random_\obj\Debug\net6.0-windows\random_.genruntimeconfig.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\random_\random_\obj\Debug\net6.0-windows\ref\random_.dll

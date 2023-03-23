@@ -1,0 +1,17 @@
+C:\Users\ipekd\Desktop\C#UDEMY\Degiskenler\String\String\bin\Debug\net6.0-windows\String.exe
+C:\Users\ipekd\Desktop\C#UDEMY\Degiskenler\String\String\bin\Debug\net6.0-windows\String.deps.json
+C:\Users\ipekd\Desktop\C#UDEMY\Degiskenler\String\String\bin\Debug\net6.0-windows\String.runtimeconfig.json
+C:\Users\ipekd\Desktop\C#UDEMY\Degiskenler\String\String\bin\Debug\net6.0-windows\String.dll
+C:\Users\ipekd\Desktop\C#UDEMY\Degiskenler\String\String\bin\Debug\net6.0-windows\String.pdb
+C:\Users\ipekd\Desktop\C#UDEMY\Degiskenler\String\String\obj\Debug\net6.0-windows\String.csproj.AssemblyReference.cache
+C:\Users\ipekd\Desktop\C#UDEMY\Degiskenler\String\String\obj\Debug\net6.0-windows\String.Form1.resources
+C:\Users\ipekd\Desktop\C#UDEMY\Degiskenler\String\String\obj\Debug\net6.0-windows\String.csproj.GenerateResource.cache
+C:\Users\ipekd\Desktop\C#UDEMY\Degiskenler\String\String\obj\Debug\net6.0-windows\String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ipekd\Desktop\C#UDEMY\Degiskenler\String\String\obj\Debug\net6.0-windows\String.AssemblyInfoInputs.cache
+C:\Users\ipekd\Desktop\C#UDEMY\Degiskenler\String\String\obj\Debug\net6.0-windows\String.AssemblyInfo.cs
+C:\Users\ipekd\Desktop\C#UDEMY\Degiskenler\String\String\obj\Debug\net6.0-windows\String.csproj.CoreCompileInputs.cache
+C:\Users\ipekd\Desktop\C#UDEMY\Degiskenler\String\String\obj\Debug\net6.0-windows\String.dll
+C:\Users\ipekd\Desktop\C#UDEMY\Degiskenler\String\String\obj\Debug\net6.0-windows\refint\String.dll
+C:\Users\ipekd\Desktop\C#UDEMY\Degiskenler\String\String\obj\Debug\net6.0-windows\String.pdb
+C:\Users\ipekd\Desktop\C#UDEMY\Degiskenler\String\String\obj\Debug\net6.0-windows\String.genruntimeconfig.cache
+C:\Users\ipekd\Desktop\C#UDEMY\Degiskenler\String\String\obj\Debug\net6.0-windows\ref\String.dll

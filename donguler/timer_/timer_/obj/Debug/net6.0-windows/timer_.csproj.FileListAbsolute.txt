@@ -1,0 +1,17 @@
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\timer_\timer_\bin\Debug\net6.0-windows\timer_.exe
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\timer_\timer_\bin\Debug\net6.0-windows\timer_.deps.json
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\timer_\timer_\bin\Debug\net6.0-windows\timer_.runtimeconfig.json
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\timer_\timer_\bin\Debug\net6.0-windows\timer_.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\timer_\timer_\bin\Debug\net6.0-windows\timer_.pdb
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\timer_\timer_\obj\Debug\net6.0-windows\timer_.csproj.AssemblyReference.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\timer_\timer_\obj\Debug\net6.0-windows\timer_.Form1.resources
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\timer_\timer_\obj\Debug\net6.0-windows\timer_.csproj.GenerateResource.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\timer_\timer_\obj\Debug\net6.0-windows\timer_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\timer_\timer_\obj\Debug\net6.0-windows\timer_.AssemblyInfoInputs.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\timer_\timer_\obj\Debug\net6.0-windows\timer_.AssemblyInfo.cs
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\timer_\timer_\obj\Debug\net6.0-windows\timer_.csproj.CoreCompileInputs.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\timer_\timer_\obj\Debug\net6.0-windows\timer_.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\timer_\timer_\obj\Debug\net6.0-windows\refint\timer_.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\timer_\timer_\obj\Debug\net6.0-windows\timer_.pdb
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\timer_\timer_\obj\Debug\net6.0-windows\timer_.genruntimeconfig.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\timer_\timer_\obj\Debug\net6.0-windows\ref\timer_.dll

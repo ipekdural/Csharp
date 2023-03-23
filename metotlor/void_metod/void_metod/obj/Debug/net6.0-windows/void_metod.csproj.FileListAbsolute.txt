@@ -1,0 +1,17 @@
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\metotlor\void_metod\void_metod\bin\Debug\net6.0-windows\void_metod.exe
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\metotlor\void_metod\void_metod\bin\Debug\net6.0-windows\void_metod.deps.json
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\metotlor\void_metod\void_metod\bin\Debug\net6.0-windows\void_metod.runtimeconfig.json
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\metotlor\void_metod\void_metod\bin\Debug\net6.0-windows\void_metod.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\metotlor\void_metod\void_metod\bin\Debug\net6.0-windows\void_metod.pdb
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\metotlor\void_metod\void_metod\obj\Debug\net6.0-windows\void_metod.csproj.AssemblyReference.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\metotlor\void_metod\void_metod\obj\Debug\net6.0-windows\void_metod.Form1.resources
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\metotlor\void_metod\void_metod\obj\Debug\net6.0-windows\void_metod.csproj.GenerateResource.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\metotlor\void_metod\void_metod\obj\Debug\net6.0-windows\void_metod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\metotlor\void_metod\void_metod\obj\Debug\net6.0-windows\void_metod.AssemblyInfoInputs.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\metotlor\void_metod\void_metod\obj\Debug\net6.0-windows\void_metod.AssemblyInfo.cs
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\metotlor\void_metod\void_metod\obj\Debug\net6.0-windows\void_metod.csproj.CoreCompileInputs.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\metotlor\void_metod\void_metod\obj\Debug\net6.0-windows\void_metod.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\metotlor\void_metod\void_metod\obj\Debug\net6.0-windows\refint\void_metod.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\metotlor\void_metod\void_metod\obj\Debug\net6.0-windows\void_metod.pdb
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\metotlor\void_metod\void_metod\obj\Debug\net6.0-windows\void_metod.genruntimeconfig.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\metotlor\void_metod\void_metod\obj\Debug\net6.0-windows\ref\void_metod.dll

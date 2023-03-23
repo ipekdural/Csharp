@@ -1,0 +1,17 @@
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\trafikLambasi\trafikLambasi\bin\Debug\net6.0-windows\trafikLambasi.exe
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\trafikLambasi\trafikLambasi\bin\Debug\net6.0-windows\trafikLambasi.deps.json
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\trafikLambasi\trafikLambasi\bin\Debug\net6.0-windows\trafikLambasi.runtimeconfig.json
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\trafikLambasi\trafikLambasi\bin\Debug\net6.0-windows\trafikLambasi.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\trafikLambasi\trafikLambasi\bin\Debug\net6.0-windows\trafikLambasi.pdb
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\trafikLambasi\trafikLambasi\obj\Debug\net6.0-windows\trafikLambasi.csproj.AssemblyReference.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\trafikLambasi\trafikLambasi\obj\Debug\net6.0-windows\trafikLambasi.Form1.resources
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\trafikLambasi\trafikLambasi\obj\Debug\net6.0-windows\trafikLambasi.csproj.GenerateResource.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\trafikLambasi\trafikLambasi\obj\Debug\net6.0-windows\trafikLambasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\trafikLambasi\trafikLambasi\obj\Debug\net6.0-windows\trafikLambasi.AssemblyInfoInputs.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\trafikLambasi\trafikLambasi\obj\Debug\net6.0-windows\trafikLambasi.AssemblyInfo.cs
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\trafikLambasi\trafikLambasi\obj\Debug\net6.0-windows\trafikLambasi.csproj.CoreCompileInputs.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\trafikLambasi\trafikLambasi\obj\Debug\net6.0-windows\trafikLambasi.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\trafikLambasi\trafikLambasi\obj\Debug\net6.0-windows\refint\trafikLambasi.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\trafikLambasi\trafikLambasi\obj\Debug\net6.0-windows\trafikLambasi.pdb
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\trafikLambasi\trafikLambasi\obj\Debug\net6.0-windows\trafikLambasi.genruntimeconfig.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\trafikLambasi\trafikLambasi\obj\Debug\net6.0-windows\ref\trafikLambasi.dll

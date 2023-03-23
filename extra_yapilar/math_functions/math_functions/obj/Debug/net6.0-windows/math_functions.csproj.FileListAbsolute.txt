@@ -1,0 +1,17 @@
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\math_functions\math_functions\bin\Debug\net6.0-windows\math_functions.exe
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\math_functions\math_functions\bin\Debug\net6.0-windows\math_functions.deps.json
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\math_functions\math_functions\bin\Debug\net6.0-windows\math_functions.runtimeconfig.json
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\math_functions\math_functions\bin\Debug\net6.0-windows\math_functions.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\math_functions\math_functions\bin\Debug\net6.0-windows\math_functions.pdb
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\math_functions\math_functions\obj\Debug\net6.0-windows\math_functions.csproj.AssemblyReference.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\math_functions\math_functions\obj\Debug\net6.0-windows\math_functions.Form1.resources
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\math_functions\math_functions\obj\Debug\net6.0-windows\math_functions.csproj.GenerateResource.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\math_functions\math_functions\obj\Debug\net6.0-windows\math_functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\math_functions\math_functions\obj\Debug\net6.0-windows\math_functions.AssemblyInfoInputs.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\math_functions\math_functions\obj\Debug\net6.0-windows\math_functions.AssemblyInfo.cs
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\math_functions\math_functions\obj\Debug\net6.0-windows\math_functions.csproj.CoreCompileInputs.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\math_functions\math_functions\obj\Debug\net6.0-windows\math_functions.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\math_functions\math_functions\obj\Debug\net6.0-windows\refint\math_functions.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\math_functions\math_functions\obj\Debug\net6.0-windows\math_functions.pdb
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\math_functions\math_functions\obj\Debug\net6.0-windows\math_functions.genruntimeconfig.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_yapilar\math_functions\math_functions\obj\Debug\net6.0-windows\ref\math_functions.dll

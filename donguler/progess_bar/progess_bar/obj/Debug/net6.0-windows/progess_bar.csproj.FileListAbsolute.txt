@@ -1,0 +1,17 @@
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\progess_bar\progess_bar\obj\Debug\net6.0-windows\progess_bar.csproj.AssemblyReference.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\progess_bar\progess_bar\obj\Debug\net6.0-windows\progess_bar.Form1.resources
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\progess_bar\progess_bar\obj\Debug\net6.0-windows\progess_bar.csproj.GenerateResource.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\progess_bar\progess_bar\obj\Debug\net6.0-windows\progess_bar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\progess_bar\progess_bar\obj\Debug\net6.0-windows\progess_bar.AssemblyInfoInputs.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\progess_bar\progess_bar\obj\Debug\net6.0-windows\progess_bar.AssemblyInfo.cs
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\progess_bar\progess_bar\obj\Debug\net6.0-windows\progess_bar.csproj.CoreCompileInputs.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\progess_bar\progess_bar\bin\Debug\net6.0-windows\progess_bar.exe
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\progess_bar\progess_bar\bin\Debug\net6.0-windows\progess_bar.deps.json
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\progess_bar\progess_bar\bin\Debug\net6.0-windows\progess_bar.runtimeconfig.json
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\progess_bar\progess_bar\bin\Debug\net6.0-windows\progess_bar.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\progess_bar\progess_bar\bin\Debug\net6.0-windows\progess_bar.pdb
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\progess_bar\progess_bar\obj\Debug\net6.0-windows\progess_bar.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\progess_bar\progess_bar\obj\Debug\net6.0-windows\refint\progess_bar.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\progess_bar\progess_bar\obj\Debug\net6.0-windows\progess_bar.pdb
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\progess_bar\progess_bar\obj\Debug\net6.0-windows\progess_bar.genruntimeconfig.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\progess_bar\progess_bar\obj\Debug\net6.0-windows\ref\progess_bar.dll

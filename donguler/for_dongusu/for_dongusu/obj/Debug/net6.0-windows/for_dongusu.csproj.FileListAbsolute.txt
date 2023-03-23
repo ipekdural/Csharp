@@ -1,0 +1,17 @@
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\for_dongusu\for_dongusu\bin\Debug\net6.0-windows\for_dongusu.exe
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\for_dongusu\for_dongusu\bin\Debug\net6.0-windows\for_dongusu.deps.json
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\for_dongusu\for_dongusu\bin\Debug\net6.0-windows\for_dongusu.runtimeconfig.json
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\for_dongusu\for_dongusu\bin\Debug\net6.0-windows\for_dongusu.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\for_dongusu\for_dongusu\bin\Debug\net6.0-windows\for_dongusu.pdb
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\for_dongusu\for_dongusu\obj\Debug\net6.0-windows\for_dongusu.csproj.AssemblyReference.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\for_dongusu\for_dongusu\obj\Debug\net6.0-windows\for_dongusu.Form1.resources
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\for_dongusu\for_dongusu\obj\Debug\net6.0-windows\for_dongusu.csproj.GenerateResource.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\for_dongusu\for_dongusu\obj\Debug\net6.0-windows\for_dongusu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\for_dongusu\for_dongusu\obj\Debug\net6.0-windows\for_dongusu.AssemblyInfoInputs.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\for_dongusu\for_dongusu\obj\Debug\net6.0-windows\for_dongusu.AssemblyInfo.cs
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\for_dongusu\for_dongusu\obj\Debug\net6.0-windows\for_dongusu.csproj.CoreCompileInputs.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\for_dongusu\for_dongusu\obj\Debug\net6.0-windows\for_dongusu.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\for_dongusu\for_dongusu\obj\Debug\net6.0-windows\refint\for_dongusu.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\for_dongusu\for_dongusu\obj\Debug\net6.0-windows\for_dongusu.pdb
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\for_dongusu\for_dongusu\obj\Debug\net6.0-windows\for_dongusu.genruntimeconfig.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\donguler\for_dongusu\for_dongusu\obj\Debug\net6.0-windows\ref\for_dongusu.dll

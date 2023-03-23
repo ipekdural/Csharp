@@ -1,0 +1,17 @@
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_tools\menu_strip\menu_strip\bin\Debug\net6.0-windows\menu_strip.exe
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_tools\menu_strip\menu_strip\bin\Debug\net6.0-windows\menu_strip.deps.json
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_tools\menu_strip\menu_strip\bin\Debug\net6.0-windows\menu_strip.runtimeconfig.json
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_tools\menu_strip\menu_strip\bin\Debug\net6.0-windows\menu_strip.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_tools\menu_strip\menu_strip\bin\Debug\net6.0-windows\menu_strip.pdb
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_tools\menu_strip\menu_strip\obj\Debug\net6.0-windows\menu_strip.csproj.AssemblyReference.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_tools\menu_strip\menu_strip\obj\Debug\net6.0-windows\menu_strip.Form1.resources
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_tools\menu_strip\menu_strip\obj\Debug\net6.0-windows\menu_strip.csproj.GenerateResource.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_tools\menu_strip\menu_strip\obj\Debug\net6.0-windows\menu_strip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_tools\menu_strip\menu_strip\obj\Debug\net6.0-windows\menu_strip.AssemblyInfoInputs.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_tools\menu_strip\menu_strip\obj\Debug\net6.0-windows\menu_strip.AssemblyInfo.cs
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_tools\menu_strip\menu_strip\obj\Debug\net6.0-windows\menu_strip.csproj.CoreCompileInputs.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_tools\menu_strip\menu_strip\obj\Debug\net6.0-windows\menu_strip.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_tools\menu_strip\menu_strip\obj\Debug\net6.0-windows\refint\menu_strip.dll
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_tools\menu_strip\menu_strip\obj\Debug\net6.0-windows\menu_strip.pdb
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_tools\menu_strip\menu_strip\obj\Debug\net6.0-windows\menu_strip.genruntimeconfig.cache
+C:\Users\ipekd\OneDrive\Masaüstü\C#UDEMY\extra_tools\menu_strip\menu_strip\obj\Debug\net6.0-windows\ref\menu_strip.dll
