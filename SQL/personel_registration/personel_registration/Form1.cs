@@ -6,5 +6,7 @@ namespace personel_registration
         {
             InitializeComponent();
         }
+
+
     }
 }

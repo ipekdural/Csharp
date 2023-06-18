@@ -1,0 +1,11 @@
+C:\Users\ipekd\Masaüstü\C#UDEMY\sql\personal_registration\personal_registration\bin\Debug\personal_registration.exe.config
+C:\Users\ipekd\Masaüstü\C#UDEMY\sql\personal_registration\personal_registration\bin\Debug\personal_registration.exe
+C:\Users\ipekd\Masaüstü\C#UDEMY\sql\personal_registration\personal_registration\bin\Debug\personal_registration.pdb
+C:\Users\ipekd\Masaüstü\C#UDEMY\sql\personal_registration\personal_registration\obj\Debug\personal_registration.csproj.AssemblyReference.cache
+C:\Users\ipekd\Masaüstü\C#UDEMY\sql\personal_registration\personal_registration\obj\Debug\personal_registration.csproj.SuggestedBindingRedirects.cache
+C:\Users\ipekd\Masaüstü\C#UDEMY\sql\personal_registration\personal_registration\obj\Debug\personal_registration.Form1.resources
+C:\Users\ipekd\Masaüstü\C#UDEMY\sql\personal_registration\personal_registration\obj\Debug\personal_registration.Properties.Resources.resources
+C:\Users\ipekd\Masaüstü\C#UDEMY\sql\personal_registration\personal_registration\obj\Debug\personal_registration.csproj.GenerateResource.cache
+C:\Users\ipekd\Masaüstü\C#UDEMY\sql\personal_registration\personal_registration\obj\Debug\personal_registration.csproj.CoreCompileInputs.cache
+C:\Users\ipekd\Masaüstü\C#UDEMY\sql\personal_registration\personal_registration\obj\Debug\personal_registration.exe
+C:\Users\ipekd\Masaüstü\C#UDEMY\sql\personal_registration\personal_registration\obj\Debug\personal_registration.pdb
