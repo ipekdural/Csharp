@@ -261,6 +261,7 @@
             this.btn_statics.TabIndex = 5;
             this.btn_statics.Text = "Statics";
             this.btn_statics.UseVisualStyleBackColor = true;
+            this.btn_statics.Click += new System.EventHandler(this.btn_statics_Click);
             // 
             // btn_clear
             // 
@@ -280,6 +281,7 @@
             this.btn_update.TabIndex = 3;
             this.btn_update.Text = "Update";
             this.btn_update.UseVisualStyleBackColor = true;
+            this.btn_update.Click += new System.EventHandler(this.btn_update_Click);
             // 
             // btn_delete
             // 
@@ -289,6 +291,7 @@
             this.btn_delete.TabIndex = 2;
             this.btn_delete.Text = "Delete";
             this.btn_delete.UseVisualStyleBackColor = true;
+            this.btn_delete.Click += new System.EventHandler(this.btn_delete_Click);
             // 
             // btn_save
             // 

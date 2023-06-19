@@ -9,3 +9,4 @@ C:\Users\ipekd\Masaüstü\C#UDEMY\sql\personal_registration\personal_registratio
 C:\Users\ipekd\Masaüstü\C#UDEMY\sql\personal_registration\personal_registration\obj\Debug\personal_registration.csproj.CoreCompileInputs.cache
 C:\Users\ipekd\Masaüstü\C#UDEMY\sql\personal_registration\personal_registration\obj\Debug\personal_registration.exe
 C:\Users\ipekd\Masaüstü\C#UDEMY\sql\personal_registration\personal_registration\obj\Debug\personal_registration.pdb
+C:\Users\ipekd\Masaüstü\C#UDEMY\sql\personal_registration\personal_registration\obj\Debug\personal_registration.frm_istatistik.resources

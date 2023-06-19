@@ -58,7 +58,7 @@ namespace personal_registration
             komut.ExecuteNonQuery();
 
             conn.Close();
-            MessageBox.Show("Personel has been added!");
+            MessageBox.Show("Registration has been added!");
         }
 
         private void btn_list_Click(object sender, EventArgs e)//listeleme
@@ -72,9 +72,58 @@ namespace personal_registration
             clear();
         }
 
-        private void dataGridView1_CellDoubleClick(object sender, DataGridViewCellEventArgs e)
+        private void dataGridView1_CellDoubleClick(object sender, DataGridViewCellEventArgs e)//datagridden verileri araclara tasima
         {
+            int chosen = dataGridView1.SelectedCells[0].RowIndex;
+            txt_id.Text = dataGridView1.Rows[chosen].Cells[0].Value.ToString();
+            txt_name.Text = dataGridView1.Rows[chosen].Cells[1].Value.ToString();
+            txt_lname.Text = dataGridView1.Rows[chosen].Cells[2].Value.ToString();
+            comboBox_city.Text = dataGridView1.Rows[chosen].Cells[3].Value.ToString();
+            maskedTextBox_salary.Text = dataGridView1.Rows[chosen].Cells[4].Value.ToString();
+            string condition= dataGridView1.Rows[chosen].Cells[5].Value.ToString();
+            if(condition=="True"){
+                radioButton_married.Checked = true;
+            }
+            if (condition == "False")
+            {
+                radioButton_single.Checked = true;
+            }
+            txt_occ.Text= dataGridView1.Rows[chosen].Cells[6].Value.ToString();
 
+        }
+
+        private void btn_delete_Click(object sender, EventArgs e)//veri silme
+        {
+            conn.Open();
+            SqlCommand deletecmd = new SqlCommand("Delete From Table_1 Where per_id=@k1",conn);
+            deletecmd.Parameters.AddWithValue("@k1",txt_id.Text);
+            deletecmd.ExecuteNonQuery();
+            conn.Close();
+            MessageBox.Show("Registration has been deleted!");
+        }
+
+        private void btn_update_Click(object sender, EventArgs e)//update komutu
+        {
+            conn.Open();
+            SqlCommand updatecmd = new SqlCommand("Update Table_1 Set per_name=@a1,per_lastname=@a2 ,city=@a3,salary=@a4,[condition]=@a5,occupation=@a6 Where per_id=@a7",conn);
+            updatecmd.Parameters.AddWithValue("@a1", txt_name.Text);
+            updatecmd.Parameters.AddWithValue("@a2", txt_lname.Text);
+            updatecmd.Parameters.AddWithValue("@a3", comboBox_city.Text);
+            updatecmd.Parameters.AddWithValue("@a4",maskedTextBox_salary.Text);
+
+            bool isMarried = radioButton_married.Checked;
+            updatecmd.Parameters.AddWithValue("@a5", isMarried);
+            updatecmd.Parameters.AddWithValue("@a6", txt_occ.Text);
+            updatecmd.Parameters.AddWithValue("@a7", txt_id.Text);
+            updatecmd.ExecuteNonQuery();
+            MessageBox.Show("Registration has been updated!");
+            conn.Close();
+        }
+
+        private void btn_statics_Click(object sender, EventArgs e)
+        {
+            frm_istatistik f = new frm_istatistik();
+            f.Show();
         }
     }
 }
