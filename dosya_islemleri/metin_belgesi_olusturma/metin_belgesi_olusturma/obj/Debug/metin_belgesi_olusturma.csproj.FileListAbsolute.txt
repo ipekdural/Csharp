@@ -1,0 +1,11 @@
+C:\Users\ipekd\Masaüstü\C#UDEMY\dosya_islemleri\metin_belgesi_olusturma\metin_belgesi_olusturma\bin\Debug\metin_belgesi_olusturma.exe.config
+C:\Users\ipekd\Masaüstü\C#UDEMY\dosya_islemleri\metin_belgesi_olusturma\metin_belgesi_olusturma\bin\Debug\metin_belgesi_olusturma.exe
+C:\Users\ipekd\Masaüstü\C#UDEMY\dosya_islemleri\metin_belgesi_olusturma\metin_belgesi_olusturma\bin\Debug\metin_belgesi_olusturma.pdb
+C:\Users\ipekd\Masaüstü\C#UDEMY\dosya_islemleri\metin_belgesi_olusturma\metin_belgesi_olusturma\obj\Debug\metin_belgesi_olusturma.csproj.AssemblyReference.cache
+C:\Users\ipekd\Masaüstü\C#UDEMY\dosya_islemleri\metin_belgesi_olusturma\metin_belgesi_olusturma\obj\Debug\metin_belgesi_olusturma.csproj.SuggestedBindingRedirects.cache
+C:\Users\ipekd\Masaüstü\C#UDEMY\dosya_islemleri\metin_belgesi_olusturma\metin_belgesi_olusturma\obj\Debug\metin_belgesi_olusturma.Form1.resources
+C:\Users\ipekd\Masaüstü\C#UDEMY\dosya_islemleri\metin_belgesi_olusturma\metin_belgesi_olusturma\obj\Debug\metin_belgesi_olusturma.Properties.Resources.resources
+C:\Users\ipekd\Masaüstü\C#UDEMY\dosya_islemleri\metin_belgesi_olusturma\metin_belgesi_olusturma\obj\Debug\metin_belgesi_olusturma.csproj.GenerateResource.cache
+C:\Users\ipekd\Masaüstü\C#UDEMY\dosya_islemleri\metin_belgesi_olusturma\metin_belgesi_olusturma\obj\Debug\metin_belgesi_olusturma.csproj.CoreCompileInputs.cache
+C:\Users\ipekd\Masaüstü\C#UDEMY\dosya_islemleri\metin_belgesi_olusturma\metin_belgesi_olusturma\obj\Debug\metin_belgesi_olusturma.exe
+C:\Users\ipekd\Masaüstü\C#UDEMY\dosya_islemleri\metin_belgesi_olusturma\metin_belgesi_olusturma\obj\Debug\metin_belgesi_olusturma.pdb
