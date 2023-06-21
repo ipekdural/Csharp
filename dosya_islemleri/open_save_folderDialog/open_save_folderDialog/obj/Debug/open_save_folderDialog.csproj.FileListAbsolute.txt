@@ -1,0 +1,11 @@
+C:\Users\ipekd\Masaüstü\C#UDEMY\dosya_islemleri\open_save_folderDialog\open_save_folderDialog\bin\Debug\open_save_folderDialog.exe.config
+C:\Users\ipekd\Masaüstü\C#UDEMY\dosya_islemleri\open_save_folderDialog\open_save_folderDialog\bin\Debug\open_save_folderDialog.exe
+C:\Users\ipekd\Masaüstü\C#UDEMY\dosya_islemleri\open_save_folderDialog\open_save_folderDialog\bin\Debug\open_save_folderDialog.pdb
+C:\Users\ipekd\Masaüstü\C#UDEMY\dosya_islemleri\open_save_folderDialog\open_save_folderDialog\obj\Debug\open_save_folderDialog.csproj.AssemblyReference.cache
+C:\Users\ipekd\Masaüstü\C#UDEMY\dosya_islemleri\open_save_folderDialog\open_save_folderDialog\obj\Debug\open_save_folderDialog.csproj.SuggestedBindingRedirects.cache
+C:\Users\ipekd\Masaüstü\C#UDEMY\dosya_islemleri\open_save_folderDialog\open_save_folderDialog\obj\Debug\open_save_folderDialog.Form1.resources
+C:\Users\ipekd\Masaüstü\C#UDEMY\dosya_islemleri\open_save_folderDialog\open_save_folderDialog\obj\Debug\open_save_folderDialog.Properties.Resources.resources
+C:\Users\ipekd\Masaüstü\C#UDEMY\dosya_islemleri\open_save_folderDialog\open_save_folderDialog\obj\Debug\open_save_folderDialog.csproj.GenerateResource.cache
+C:\Users\ipekd\Masaüstü\C#UDEMY\dosya_islemleri\open_save_folderDialog\open_save_folderDialog\obj\Debug\open_save_folderDialog.csproj.CoreCompileInputs.cache
+C:\Users\ipekd\Masaüstü\C#UDEMY\dosya_islemleri\open_save_folderDialog\open_save_folderDialog\obj\Debug\open_save_folderDialog.exe
+C:\Users\ipekd\Masaüstü\C#UDEMY\dosya_islemleri\open_save_folderDialog\open_save_folderDialog\obj\Debug\open_save_folderDialog.pdb

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace personal_registration
+namespace open_save_folderDialog
 {
     internal static class Program
     {
@@ -16,7 +16,7 @@ namespace personal_registration
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frm_login());
+            Application.Run(new Form1());
         }
     }
 }

@@ -1,6 +1,6 @@
 ﻿namespace personal_registration
 {
-    partial class Form1
+    partial class FrmMain
     {
         /// <summary>
         /// Required designer variable.
@@ -65,6 +65,7 @@
             this.table1BindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.personel_databaseDataSet2 = new personal_registration.personel_databaseDataSet2();
             this.table_1TableAdapter = new personal_registration.personel_databaseDataSet2TableAdapters.Table_1TableAdapter();
+            this.button1 = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -230,6 +231,7 @@
             // 
             // groupBox2
             // 
+            this.groupBox2.Controls.Add(this.button1);
             this.groupBox2.Controls.Add(this.btn_graphics);
             this.groupBox2.Controls.Add(this.btn_statics);
             this.groupBox2.Controls.Add(this.btn_clear);
@@ -239,7 +241,7 @@
             this.groupBox2.Controls.Add(this.btn_list);
             this.groupBox2.Location = new System.Drawing.Point(501, 40);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(200, 385);
+            this.groupBox2.Size = new System.Drawing.Size(200, 406);
             this.groupBox2.TabIndex = 0;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Processes";
@@ -248,16 +250,17 @@
             // 
             this.btn_graphics.Location = new System.Drawing.Point(39, 312);
             this.btn_graphics.Name = "btn_graphics";
-            this.btn_graphics.Size = new System.Drawing.Size(75, 23);
+            this.btn_graphics.Size = new System.Drawing.Size(75, 38);
             this.btn_graphics.TabIndex = 6;
             this.btn_graphics.Text = "Graphics";
             this.btn_graphics.UseVisualStyleBackColor = true;
+            this.btn_graphics.Click += new System.EventHandler(this.btn_graphics_Click);
             // 
             // btn_statics
             // 
             this.btn_statics.Location = new System.Drawing.Point(39, 268);
             this.btn_statics.Name = "btn_statics";
-            this.btn_statics.Size = new System.Drawing.Size(75, 23);
+            this.btn_statics.Size = new System.Drawing.Size(75, 38);
             this.btn_statics.TabIndex = 5;
             this.btn_statics.Text = "Statics";
             this.btn_statics.UseVisualStyleBackColor = true;
@@ -267,7 +270,7 @@
             // 
             this.btn_clear.Location = new System.Drawing.Point(39, 228);
             this.btn_clear.Name = "btn_clear";
-            this.btn_clear.Size = new System.Drawing.Size(75, 23);
+            this.btn_clear.Size = new System.Drawing.Size(75, 38);
             this.btn_clear.TabIndex = 4;
             this.btn_clear.Text = "Clear";
             this.btn_clear.UseVisualStyleBackColor = true;
@@ -277,7 +280,7 @@
             // 
             this.btn_update.Location = new System.Drawing.Point(39, 185);
             this.btn_update.Name = "btn_update";
-            this.btn_update.Size = new System.Drawing.Size(75, 23);
+            this.btn_update.Size = new System.Drawing.Size(75, 38);
             this.btn_update.TabIndex = 3;
             this.btn_update.Text = "Update";
             this.btn_update.UseVisualStyleBackColor = true;
@@ -287,7 +290,7 @@
             // 
             this.btn_delete.Location = new System.Drawing.Point(39, 143);
             this.btn_delete.Name = "btn_delete";
-            this.btn_delete.Size = new System.Drawing.Size(75, 23);
+            this.btn_delete.Size = new System.Drawing.Size(75, 38);
             this.btn_delete.TabIndex = 2;
             this.btn_delete.Text = "Delete";
             this.btn_delete.UseVisualStyleBackColor = true;
@@ -297,7 +300,7 @@
             // 
             this.btn_save.Location = new System.Drawing.Point(39, 93);
             this.btn_save.Name = "btn_save";
-            this.btn_save.Size = new System.Drawing.Size(75, 23);
+            this.btn_save.Size = new System.Drawing.Size(75, 38);
             this.btn_save.TabIndex = 1;
             this.btn_save.Text = "Save";
             this.btn_save.UseVisualStyleBackColor = true;
@@ -307,7 +310,7 @@
             // 
             this.btn_list.Location = new System.Drawing.Point(39, 43);
             this.btn_list.Name = "btn_list";
-            this.btn_list.Size = new System.Drawing.Size(75, 23);
+            this.btn_list.Size = new System.Drawing.Size(75, 38);
             this.btn_list.TabIndex = 0;
             this.btn_list.Text = "List";
             this.btn_list.UseVisualStyleBackColor = true;
@@ -416,14 +419,25 @@
             // 
             this.table_1TableAdapter.ClearBeforeFill = true;
             // 
-            // Form1
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(39, 356);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 38);
+            this.button1.TabIndex = 7;
+            this.button1.Text = "Report";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // FrmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.ControlDark;
             this.ClientSize = new System.Drawing.Size(1246, 784);
             this.Controls.Add(this.groupBox3);
             this.Controls.Add(this.groupBox1);
-            this.Name = "Form1";
+            this.Name = "FrmMain";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.groupBox1.ResumeLayout(false);
@@ -475,6 +489,7 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn salaryDataGridViewTextBoxColumn;
         private System.Windows.Forms.DataGridViewCheckBoxColumn conditionDataGridViewCheckBoxColumn;
         private System.Windows.Forms.DataGridViewTextBoxColumn occupationDataGridViewTextBoxColumn;
+        private System.Windows.Forms.Button button1;
     }
 }
 

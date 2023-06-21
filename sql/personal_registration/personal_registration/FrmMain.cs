@@ -11,10 +11,10 @@ using System.Data.SqlClient;
 
 namespace personal_registration
 {
-    public partial class Form1 : Form
+    public partial class FrmMain : Form
     {
-        public Form1()
-        {
+        public FrmMain()
+         {
             InitializeComponent();
         }
         SqlConnection conn = new SqlConnection("Data Source=LAPTOP-9HIBIC6I\\SQLEXPRESS;Initial Catalog=personel_database;Integrated Security=True");
@@ -124,6 +124,17 @@ namespace personal_registration
         {
             frm_istatistik f = new frm_istatistik();
             f.Show();
+        }
+
+        private void btn_graphics_Click(object sender, EventArgs e)
+        {
+            FrmGraphics f = new FrmGraphics();
+            f.Show();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
