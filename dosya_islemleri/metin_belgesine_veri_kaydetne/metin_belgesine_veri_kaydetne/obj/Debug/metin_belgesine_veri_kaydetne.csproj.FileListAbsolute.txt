@@ -1,0 +1,11 @@
+C:\Users\ipekd\Masaüstü\C#UDEMY\dosya_islemleri\metin_belgesine_veri_kaydetne\metin_belgesine_veri_kaydetne\bin\Debug\metin_belgesine_veri_kaydetne.exe.config
+C:\Users\ipekd\Masaüstü\C#UDEMY\dosya_islemleri\metin_belgesine_veri_kaydetne\metin_belgesine_veri_kaydetne\bin\Debug\metin_belgesine_veri_kaydetne.exe
+C:\Users\ipekd\Masaüstü\C#UDEMY\dosya_islemleri\metin_belgesine_veri_kaydetne\metin_belgesine_veri_kaydetne\bin\Debug\metin_belgesine_veri_kaydetne.pdb
+C:\Users\ipekd\Masaüstü\C#UDEMY\dosya_islemleri\metin_belgesine_veri_kaydetne\metin_belgesine_veri_kaydetne\obj\Debug\metin_belgesine_veri_kaydetne.csproj.AssemblyReference.cache
+C:\Users\ipekd\Masaüstü\C#UDEMY\dosya_islemleri\metin_belgesine_veri_kaydetne\metin_belgesine_veri_kaydetne\obj\Debug\metin_belgesine_veri_kaydetne.csproj.SuggestedBindingRedirects.cache
+C:\Users\ipekd\Masaüstü\C#UDEMY\dosya_islemleri\metin_belgesine_veri_kaydetne\metin_belgesine_veri_kaydetne\obj\Debug\metin_belgesine_veri_kaydetne.Form1.resources
+C:\Users\ipekd\Masaüstü\C#UDEMY\dosya_islemleri\metin_belgesine_veri_kaydetne\metin_belgesine_veri_kaydetne\obj\Debug\metin_belgesine_veri_kaydetne.Properties.Resources.resources
+C:\Users\ipekd\Masaüstü\C#UDEMY\dosya_islemleri\metin_belgesine_veri_kaydetne\metin_belgesine_veri_kaydetne\obj\Debug\metin_belgesine_veri_kaydetne.csproj.GenerateResource.cache
+C:\Users\ipekd\Masaüstü\C#UDEMY\dosya_islemleri\metin_belgesine_veri_kaydetne\metin_belgesine_veri_kaydetne\obj\Debug\metin_belgesine_veri_kaydetne.csproj.CoreCompileInputs.cache
+C:\Users\ipekd\Masaüstü\C#UDEMY\dosya_islemleri\metin_belgesine_veri_kaydetne\metin_belgesine_veri_kaydetne\obj\Debug\metin_belgesine_veri_kaydetne.exe
+C:\Users\ipekd\Masaüstü\C#UDEMY\dosya_islemleri\metin_belgesine_veri_kaydetne\metin_belgesine_veri_kaydetne\obj\Debug\metin_belgesine_veri_kaydetne.pdb

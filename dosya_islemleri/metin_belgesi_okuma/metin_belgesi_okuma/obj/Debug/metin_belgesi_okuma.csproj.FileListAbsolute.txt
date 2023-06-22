@@ -1,0 +1,11 @@
+C:\Users\ipekd\Masaüstü\C#UDEMY\dosya_islemleri\metin_belgesi_okuma\metin_belgesi_okuma\bin\Debug\metin_belgesi_okuma.exe.config
+C:\Users\ipekd\Masaüstü\C#UDEMY\dosya_islemleri\metin_belgesi_okuma\metin_belgesi_okuma\bin\Debug\metin_belgesi_okuma.exe
+C:\Users\ipekd\Masaüstü\C#UDEMY\dosya_islemleri\metin_belgesi_okuma\metin_belgesi_okuma\bin\Debug\metin_belgesi_okuma.pdb
+C:\Users\ipekd\Masaüstü\C#UDEMY\dosya_islemleri\metin_belgesi_okuma\metin_belgesi_okuma\obj\Debug\metin_belgesi_okuma.csproj.AssemblyReference.cache
+C:\Users\ipekd\Masaüstü\C#UDEMY\dosya_islemleri\metin_belgesi_okuma\metin_belgesi_okuma\obj\Debug\metin_belgesi_okuma.csproj.SuggestedBindingRedirects.cache
+C:\Users\ipekd\Masaüstü\C#UDEMY\dosya_islemleri\metin_belgesi_okuma\metin_belgesi_okuma\obj\Debug\metin_belgesi_okuma.Form1.resources
+C:\Users\ipekd\Masaüstü\C#UDEMY\dosya_islemleri\metin_belgesi_okuma\metin_belgesi_okuma\obj\Debug\metin_belgesi_okuma.Properties.Resources.resources
+C:\Users\ipekd\Masaüstü\C#UDEMY\dosya_islemleri\metin_belgesi_okuma\metin_belgesi_okuma\obj\Debug\metin_belgesi_okuma.csproj.GenerateResource.cache
+C:\Users\ipekd\Masaüstü\C#UDEMY\dosya_islemleri\metin_belgesi_okuma\metin_belgesi_okuma\obj\Debug\metin_belgesi_okuma.csproj.CoreCompileInputs.cache
+C:\Users\ipekd\Masaüstü\C#UDEMY\dosya_islemleri\metin_belgesi_okuma\metin_belgesi_okuma\obj\Debug\metin_belgesi_okuma.exe
+C:\Users\ipekd\Masaüstü\C#UDEMY\dosya_islemleri\metin_belgesi_okuma\metin_belgesi_okuma\obj\Debug\metin_belgesi_okuma.pdb
